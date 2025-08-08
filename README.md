@@ -110,9 +110,7 @@ Geiger-Müller 계수기(가이거 계수기)에서 발생하는 '클릭' 소리
 ## 예시 출력 결과
 
 스크립트를 성공적으로 실행하면 아래와 같은 상세 분석 그래프를 얻을 수 있습니다.
-
-*(README 파일에 이미지가 보이도록 예시 이미지 링크를 포함했습니다.)*
-
+<img width="914" height="1024" alt="image" src="https://github.com/user-attachments/assets/87ee0d27-183d-495e-8632-a798fede3cc9" />
 -----
 
 ## 라이선스
